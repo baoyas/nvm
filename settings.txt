@@ -1,0 +1,4 @@
+root: d:\nvm
+path: d:\nvm\nodejs
+arch: 64
+proxy:
